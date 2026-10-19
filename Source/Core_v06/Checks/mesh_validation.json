@@ -1,0 +1,302 @@
+[
+  {
+    "part": "01_floor_rear",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 15188,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "02_floor_front",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 19464,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "03_floor_splice_print_4",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1700,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "04_fixed_dump_bed",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 20664,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "05_bed_spacer_20mm_print_4",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 672,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "06_seat_pedestal",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 3468,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "07_bench_seat",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 12314,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "08_armrest_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1716,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "09_rear_roof_post_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1656,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "10_front_roof_post_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 5132,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "11_roof",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 19468,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "12_dashboard",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 5222,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "13_steering_wheel_and_column",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 16008,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "14_hood_pumpkin_carrier",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 9572,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "15_hood_spacer_9mm_print_4",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 672,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "16A_front_end_adapter_TRIAL",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 2396,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "16B_rear_end_adapter_TRIAL",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 2396,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "17_mount_shim_12mm_print_4",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 672,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "17B_mount_shim_2mm_OPTIONAL",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 672,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "00C_front_mount_TEMPLATE_2mm",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1724,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "00D_rear_mount_TEMPLATE_2mm",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1724,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "18_5mm_LED_bezel_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 2096,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "19_IT_DEPT_plaque_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 3518,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "20A_front_bumper",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 8420,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "20B_rear_bumper_adjustable",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1636,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "20C_rear_bumper_insert_block_print_2",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 1024,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "21_windshield_plate_print_4",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 688,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "00_fit_coupon",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 244,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "00b_fit_peg",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 28,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  },
+  {
+    "part": "00E_M3_insert_fit_test",
+    "CAD_valid": true,
+    "CAD_solids": 1,
+    "triangles": 21644,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "positive_volume": true,
+    "fits_230mm_envelope": true
+  }
+]

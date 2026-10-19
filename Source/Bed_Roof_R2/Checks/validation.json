@@ -1,0 +1,38 @@
+[
+  {
+    "part": "04_bed_50mm_sharp_6mm_R2",
+    "valid_single_solid": true,
+    "closed_mesh": true,
+    "degenerate_triangles": 0,
+    "dimensions_mm": [
+      139.0,
+      148.0,
+      50.0
+    ],
+    "physical_grip_tested": false
+  },
+  {
+    "part": "11_roof_sharp_6mm_R2",
+    "valid_single_solid": true,
+    "closed_mesh": true,
+    "degenerate_triangles": 0,
+    "dimensions_mm": [
+      158.0,
+      168.0,
+      24.95
+    ],
+    "physical_grip_tested": false
+  },
+  {
+    "part": "00_sharp_peg_test_strip_R2",
+    "valid_single_solid": true,
+    "closed_mesh": true,
+    "degenerate_triangles": 0,
+    "dimensions_mm": [
+      56.0,
+      24.0,
+      9.0
+    ],
+    "physical_grip_tested": false
+  }
+]

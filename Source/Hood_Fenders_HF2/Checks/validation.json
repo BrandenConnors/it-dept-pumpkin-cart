@@ -1,0 +1,118 @@
+{
+  "parts": [
+    {
+      "file": "01_spiked_hood_carrier_HF2.stl",
+      "quantity": 1,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        76.0,
+        104.0,
+        38.0
+      ]
+    },
+    {
+      "file": "02_fender_riser_positive_Y_HF2.stl",
+      "quantity": 1,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        104.0,
+        30.0,
+        38.0
+      ]
+    },
+    {
+      "file": "03_fender_riser_negative_Y_HF2.stl",
+      "quantity": 1,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        104.0,
+        30.0,
+        38.0
+      ]
+    },
+    {
+      "file": "04_fender_pad_print_2_HF2.stl",
+      "quantity": 2,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        100.0,
+        34.0,
+        14.0
+      ]
+    },
+    {
+      "file": "00_alignment_gauge_optional_HF2.stl",
+      "quantity": 1,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        76.0,
+        104.0,
+        2.0
+      ]
+    },
+    {
+      "file": "05_raised_spike_bar_print_2_HF2.stl",
+      "quantity": 2,
+      "valid_single_solid": true,
+      "closed_mesh": true,
+      "dimensions_mm": [
+        38.0,
+        44.0,
+        10.0
+      ]
+    }
+  ],
+  "adjustment_checks": [
+    {
+      "height_offset_mm": -6,
+      "pad_center_Y_mm": 65,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": -6,
+      "pad_center_Y_mm": 75,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": -6,
+      "pad_center_Y_mm": 85,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 0,
+      "pad_center_Y_mm": 65,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 0,
+      "pad_center_Y_mm": 75,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 0,
+      "pad_center_Y_mm": 85,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 6,
+      "pad_center_Y_mm": 65,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 6,
+      "pad_center_Y_mm": 75,
+      "printed_part_overlaps": []
+    },
+    {
+      "height_offset_mm": 6,
+      "pad_center_Y_mm": 85,
+      "printed_part_overlaps": []
+    }
+  ],
+  "physical_chassis_clearance_verified": false
+}

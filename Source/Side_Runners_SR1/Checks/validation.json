@@ -1,0 +1,236 @@
+{
+  "parts": {
+    "01_cab_skirt_left": {
+      "quantity": 1,
+      "dimensions_mm": [
+        120.0,
+        34.0,
+        14.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "02_rear_arch_left": {
+      "quantity": 1,
+      "dimensions_mm": [
+        116.0,
+        55.01,
+        14.02
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "03_cab_upper_clamp_left": {
+      "quantity": 2,
+      "dimensions_mm": [
+        19.0,
+        25.0,
+        20.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "04_cab_lower_jaw_left": {
+      "quantity": 2,
+      "dimensions_mm": [
+        20.0,
+        25.0,
+        8.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "05_rear_bed_hanger_left": {
+      "quantity": 1,
+      "dimensions_mm": [
+        14.0,
+        64.0,
+        12.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "06_forward_bed_hanger_left": {
+      "quantity": 1,
+      "dimensions_mm": [
+        14.0,
+        64.0,
+        24.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "01_cab_skirt_right": {
+      "quantity": 1,
+      "dimensions_mm": [
+        120.0,
+        34.0,
+        14.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "02_rear_arch_right": {
+      "quantity": 1,
+      "dimensions_mm": [
+        116.0,
+        55.01,
+        14.02
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "03_cab_upper_clamp_right": {
+      "quantity": 2,
+      "dimensions_mm": [
+        19.0,
+        25.0,
+        20.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "04_cab_lower_jaw_right": {
+      "quantity": 2,
+      "dimensions_mm": [
+        20.0,
+        25.0,
+        8.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "05_rear_bed_hanger_right": {
+      "quantity": 1,
+      "dimensions_mm": [
+        14.0,
+        64.0,
+        12.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "06_forward_bed_hanger_right": {
+      "quantity": 1,
+      "dimensions_mm": [
+        14.0,
+        64.0,
+        24.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "07_bed_spacer_16mm_print_4": {
+      "quantity": 4,
+      "dimensions_mm": [
+        12.0,
+        12.0,
+        16.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "08_offset_spacer_5mm_optional": {
+      "quantity": 8,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        5.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    },
+    "09_offset_spacer_10mm_optional": {
+      "quantity": 8,
+      "dimensions_mm": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "valid_solid": true,
+      "closed_mesh": true
+    }
+  },
+  "nominal_overlaps": [],
+  "panel_adjustment_positions_checked": 36,
+  "physical_fit_verified": false,
+  "rear_wheel_reference_only": {
+    "x": -106.5,
+    "z": -31,
+    "cutout_radius": 44
+  },
+  "floor_collision_checks": [
+    [
+      "03_cab_upper_clamp",
+      "left",
+      -48,
+      0.0
+    ],
+    [
+      "03_cab_upper_clamp",
+      "left",
+      38,
+      0.0
+    ],
+    [
+      "04_cab_lower_jaw",
+      "left",
+      -48,
+      0.0
+    ],
+    [
+      "04_cab_lower_jaw",
+      "left",
+      38,
+      0.0
+    ],
+    [
+      "05_rear_bed_hanger",
+      "left",
+      -150,
+      0.0
+    ],
+    [
+      "06_forward_bed_hanger",
+      "left",
+      -48,
+      0.0
+    ],
+    [
+      "03_cab_upper_clamp",
+      "right",
+      -48,
+      0.0
+    ],
+    [
+      "03_cab_upper_clamp",
+      "right",
+      38,
+      0.0
+    ],
+    [
+      "04_cab_lower_jaw",
+      "right",
+      -48,
+      0.0
+    ],
+    [
+      "04_cab_lower_jaw",
+      "right",
+      38,
+      0.0
+    ],
+    [
+      "05_rear_bed_hanger",
+      "right",
+      -150,
+      0.0
+    ],
+    [
+      "06_forward_bed_hanger",
+      "right",
+      -48,
+      0.0
+    ]
+  ]
+}

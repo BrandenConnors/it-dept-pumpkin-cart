@@ -1,0 +1,10 @@
+[
+  {
+    "travel_offset_mm": -8.3,
+    "printed_part_collisions": []
+  },
+  {
+    "travel_offset_mm": 8.3,
+    "printed_part_collisions": []
+  }
+]

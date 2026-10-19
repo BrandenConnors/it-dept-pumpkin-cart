@@ -1,0 +1,62 @@
+system,file,quantity,status,notes
+01_Frame,Parts/01_Frame/STL/01_floor_rear.stl,1,Required,"v06 flat-face print fix: mounting face DOWN, rails UP. 7 mm web. No supports under main floor; brim recommended. Insert and mounting locations retained."
+01_Frame,Parts/01_Frame/STL/02_floor_front.stl,1,Required,"v06 flat-face print fix: mounting face DOWN, rails UP. 7 mm web. No supports under main floor; brim recommended. Insert and mounting locations retained."
+01_Frame,Parts/01_Frame/STL/03_floor_splice_print_4.stl,4,Required,Four 8 mm insert splices. Install inserts in top face BEFORE assembly. Eight M3x16 bolts.
+03_Cab_Seat_Dashboard,Parts/03_Cab_Seat_Dashboard/STL/06_seat_pedestal.stl,1,Required,Prototype; verify fit before final printing
+03_Cab_Seat_Dashboard,Parts/03_Cab_Seat_Dashboard/STL/07_bench_seat.stl,1,Required,"Print on bench end; inspect new bosses/supports. Insert pockets in four side pads. Armrest M3x8, bench to pedestal M3x16."
+03_Cab_Seat_Dashboard,Parts/03_Cab_Seat_Dashboard/STL/08_armrest_print_2.stl,2,Required,Print flat as supplied. Two M3 x8 through side lugs into bench inserts. Fit before attaching bench.
+04_Roof_Windshield,Parts/04_Roof_Windshield/STL/09_rear_roof_post_print_2.stl,2,Required,Print on side; supports may be needed under wider foot/ears. Pegs locate; two M3x8 bolts fix foot; one M3x16 fixes roof clevis. Front ears accept inserts from rear side.
+04_Roof_Windshield,Parts/04_Roof_Windshield/STL/10_front_roof_post_print_2.stl,2,Required,Print on side; supports may be needed under wider foot/ears. Pegs locate; two M3x8 bolts fix foot; one M3x16 fixes roof clevis. Front ears accept inserts from rear side.
+03_Cab_Seat_Dashboard,Parts/03_Cab_Seat_Dashboard/STL/12_dashboard.stl,1,Required,Enable supports for the recessed dashboard face and leg details; inspect slicer preview
+03_Cab_Seat_Dashboard,Parts/03_Cab_Seat_Dashboard/STL/13_steering_wheel_and_column.stl,1,Required,"Wheel face DOWN, column UP. M3x35 through hub/column into insert installed at rear of dash boss. Decorative fixed wheel."
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/15_hood_spacer_9mm_print_4.stl,4,Required,Prototype; verify fit before final printing
+02_Chassis_Mounts,Parts/02_Chassis_Mounts/STL/16A_front_end_adapter_TRIAL.stl,0,Optional alternative,Front adapter omitted in Branden's assembled configuration. Retained as an alternate mount option.
+02_Chassis_Mounts,Parts/02_Chassis_Mounts/STL/16B_rear_end_adapter_TRIAL.stl,1,As fitted,Retain your successful spacer stack and mounting configuration. 8 mm trial adapter; rear chassis slots nominal 86 mm centers. Fit template 00D first. Chassis screw thread/length not yet confirmed.
+02_Chassis_Mounts,Parts/02_Chassis_Mounts/STL/17_mount_shim_12mm_print_4.stl,4,As fitted,Retain your successful spacer stack and mounting configuration. 12 mm provisional spacer between adapter and floor underside. Adjust height only after checking clearances under load.
+02_Chassis_Mounts,Parts/02_Chassis_Mounts/STL/17B_mount_shim_2mm_OPTIONAL.stl,0,As fitted,Retain your successful spacer stack and mounting configuration. Optional 2 mm adjustment washer. Print only as required; use equal stacks left/right. Longer bolts may be needed.
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00C_front_mount_TEMPLATE_2mm.stl,1,Optional test,"PRINT FIRST. Thin fit template ONLY, never use to carry the cart. Chassis holes are the slotted row; round holes belong to floor bolts."
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00D_rear_mount_TEMPLATE_2mm.stl,1,Optional test,"PRINT FIRST. Thin fit template ONLY, never use to carry the cart. Chassis holes are the slotted row; round holes belong to floor bolts."
+08_Bumpers_Lights_Plaques,Parts/08_Bumpers_Lights_Plaques/STL/18_5mm_LED_bezel_print_2.stl,2,Required,Optional: thread through flange ears to retain bezel in rind. Actual LED fit/retention must be checked; wiring not supplied.
+08_Bumpers_Lights_Plaques,Parts/08_Bumpers_Lights_Plaques/STL/19_IT_DEPT_plaque_print_2.stl,2,Required,"Paint raised letters white. Two narrow ties/thread loops per plaque pass through paired ear/bed holes, with rind between. Do not cinch against wet rind."
+08_Bumpers_Lights_Plaques,Parts/08_Bumpers_Lights_Plaques/STL/20A_front_bumper.stl,1,Required,M3x10 into front floor inserts; original footprint retained.
+08_Bumpers_Lights_Plaques,Parts/08_Bumpers_Lights_Plaques/STL/20B_rear_bumper_adjustable.stl,1,Required,Two M3x20 bolts with washers through arms and floor slots into 20C blocks. Nominal travel 16.6 mm; fit on actual chassis.
+08_Bumpers_Lights_Plaques,Parts/08_Bumpers_Lights_Plaques/STL/20C_rear_bumper_insert_block_print_2.stl,2,Required,"Install insert in top face. Block rests below rear reinforced slot at Z=-8; hold while starting bolt, slide bumper then snug."
+04_Roof_Windshield,Parts/04_Roof_Windshield/STL/21_windshield_plate_print_4.stl,4,Required,Flat face DOWN. Four M3x10 bolts clamp thin clear sheet to inward holes on front post ears. Sheet nominal 0.75 mm; adjust hardware to actual thickness.
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00_fit_coupon.stl,1,Optional test,Print FIRST with 00b: slots from notched end are 4.2/4.4/4.6 mm
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00b_fit_peg.stl,1,Optional test,Print FIRST with 00: use this separate 4.0 mm peg to test the slots
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00E_M3_insert_fit_test.stl,1,Optional test,"Test 4.0 mm first. Pockets 3.8 to 4.8 mm, depth 6.7, for assumed 5.7 mm insert. Choose secure fit without bulging; measure longer/larger inserts before use."
+05_Bed,Parts/05_Bed/STL/04_bed_50mm_sharp_6mm_R2.stl,1,Required,
+04_Roof_Windshield,Parts/04_Roof_Windshield/STL/11_roof_sharp_6mm_R2.stl,1,Required,
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00_sharp_peg_test_strip_R2.stl,1,Optional test,
+10_Fit_Tests,Parts/10_Fit_Tests/STL/00_alignment_gauge_optional_HF2.stl,1,Optional test,
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/01_spiked_hood_carrier_HF2.stl,1,Required,
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/02_fender_riser_positive_Y_HF2.stl,1,Required,
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/03_fender_riser_negative_Y_HF2.stl,1,Required,
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/04_fender_pad_print_2_HF2.stl,2,Required,
+06_Hood_Fenders,Parts/06_Hood_Fenders/STL/05_raised_spike_bar_print_2_HF2.stl,2,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/01_cab_skirt_left.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/01_cab_skirt_right.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/02_rear_arch_left.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/02_rear_arch_right.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/03_cab_upper_clamp_left.stl,2,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/03_cab_upper_clamp_right.stl,2,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/04_cab_lower_jaw_left.stl,2,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/04_cab_lower_jaw_right.stl,2,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/05_rear_bed_hanger_left.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/05_rear_bed_hanger_right.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/06_forward_bed_hanger_left.stl,1,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/06_forward_bed_hanger_right.stl,1,Required,
+05_Bed,Parts/05_Bed/STL/07_bed_spacer_16mm_print_4.stl,4,Required,
+07_Side_Runners,Parts/07_Side_Runners/STL/08_offset_spacer_5mm_optional.stl,0,Optional offset,Offset spacers: two of equal thickness per panel; choose 5 OR 10 mm.
+07_Side_Runners,Parts/07_Side_Runners/STL/09_offset_spacer_10mm_optional.stl,0,Optional offset,Offset spacers: two of equal thickness per panel; choose 5 OR 10 mm.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/01_switch_24port_body.stl,1,Optional cargo,Open top UP; 0.16 mm layers; no supports expected. Retain lid with two narrow removable bands after painting port recesses.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/01_switch_24port_lid.stl,1,Optional cargo,Flat plain face DOWN; engraved vents UP. Center flat lid on rim and retain with two narrow bands; no snap fit.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/02_switch_8port_body.stl,1,Optional cargo,Open top UP; 0.16 mm layers; no supports expected. Retain lid with two narrow removable bands after painting port recesses.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/02_switch_8port_lid.stl,1,Optional cargo,Flat plain face DOWN; engraved vents UP. Center flat lid on rim and retain with two narrow bands; no snap fit.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/03_bullet_camera.stl,1,Optional cargo,Open underside DOWN; 0.16 mm layers. Inspect 10 mm inner roof bridge; use internal supports if bridging is poor. Paint recessed lens black.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/04_dome_camera.stl,1,Optional cargo,Base ring DOWN; 0.16 mm layers. Hollow underside; inspect top bridge. Paint upper dome smoky gray and lens black.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/05_toolbox_body.stl,1,Optional cargo,Open top UP; no supports expected. Retain lid with two narrow bands. Paint latches silver.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/05_toolbox_lid.stl,1,Optional cargo,"Flat underside DOWN; handle UP. The handle bridges about 9 mm. Inspect bridge; treat handle as decorative, not a lifting point."
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/06_cable_coil.stl,1,Optional cargo,"Flat backing DOWN; 0.16 mm layers, no supports expected. Paint retaining straps black. Decorative rigid coil, not flexible cable."
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/07_pc_tower_body.stl,1,Optional cargo,Open top UP; no supports expected. Print only if desired after the load check. Paint front slots / power button.
+09_Optional_Cargo,Parts/09_Optional_Cargo/STL/07_pc_tower_lid.stl,1,Optional cargo,Flat face DOWN. Center on body rim and retain with two narrow bands; no snap fit.

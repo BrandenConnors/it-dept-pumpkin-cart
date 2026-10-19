@@ -1,0 +1,24 @@
+[
+  {
+    "part": "01_floor_rear",
+    "bed_contact_area_mm2": 16331.3,
+    "min_print_z": 0.0,
+    "print_dimensions_mm": [
+      175.0,
+      146.0,
+      11.0
+    ],
+    "full_mounting_face_planar": true
+  },
+  {
+    "part": "02_floor_front",
+    "bed_contact_area_mm2": 17386.2,
+    "min_print_z": 0.0,
+    "print_dimensions_mm": [
+      175.0,
+      158.0,
+      11.0
+    ],
+    "full_mounting_face_planar": true
+  }
+]
